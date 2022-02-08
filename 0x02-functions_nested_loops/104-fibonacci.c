@@ -14,11 +14,12 @@ int main(void)
     {
         if (i == 0)
         { printf("%.0ld, ", n1); }
-        else if (i < 91)
-        { sum = n1 + n2;
-            n1 = n2;
-            n2 = sum;
-            printf("%ld, ", sum); }
+             else if (i < 91)
+                {    sum = n1 + n2;
+                     n1 = n2;
+                     n2 = sum;
+                     printf("%ld, ", sum);
+                }
         else
         {
             if (i == 91)
