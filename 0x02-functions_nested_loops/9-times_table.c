@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * times_table - prints the times table of an integer starting with zero
+ *
+ * Return: Always 0.
+ */
 void times_table(void)
 {
 	int x, y, product;
