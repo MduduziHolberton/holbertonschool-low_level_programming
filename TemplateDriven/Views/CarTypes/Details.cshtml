@@ -1,0 +1,26 @@
+﻿@model TemplateDriven.Models.CarType
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CarType</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CarType_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CarType_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CarType_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

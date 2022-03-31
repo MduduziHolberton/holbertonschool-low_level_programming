@@ -1,0 +1,90 @@
+﻿@model TemplateDriven.Models.Booking
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Booking</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Car.Brand_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Car.Brand_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location.Location_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location.Location_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rental_Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rental_Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Return_Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Return_Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Total_Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total_Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking_Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking_Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Registration_Number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Registration_Number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Brand_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brand_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Booking_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
