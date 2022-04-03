@@ -1,0 +1,220 @@
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\TemplateDriven.dll.config
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\TemplateDriven.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\TemplateDriven.pdb
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csc.exe
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csc.exe.config
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csc.rsp
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csi.exe
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csi.exe.config
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\csi.rsp
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.AppContext.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Console.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.IO.Compression.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Net.Http.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.ValueTuple.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\vbc.exe
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\vbc.exe.config
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\vbc.rsp
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\VBCSCompiler.exe
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Antlr3.Runtime.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\EntityFramework.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\EntityFramework.SqlServer.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Newtonsoft.Json.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Owin.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Helpers.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Mvc.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Optimization.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Razor.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.Razor.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\WebGrease.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Helpers.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Mvc.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Optimization.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.Razor.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\System.Web.WebPages.Razor.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Newtonsoft.Json.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Antlr3.Runtime.pdb
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\EntityFramework.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\EntityFramework.SqlServer.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.csproj.AssemblyReference.cache
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.csproj.CoreCompileInputs.cache
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.csproj.CopyComplete
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.dll
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.pdb
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.Migrations.InitialCreate.resources
+C:\Users\SSLearner8\Documents\FULL-STACK-PROJECT\ASP PROJECT\TemplateDriven\obj\Debug\TemplateDriven.csproj.GenerateResource.cache
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\TemplateDriven.dll.config
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\TemplateDriven.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\TemplateDriven.pdb
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csc.exe
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csc.exe.config
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csc.rsp
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csi.exe
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csi.exe.config
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\csi.rsp
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.AppContext.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Console.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.IO.Compression.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Net.Http.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.ValueTuple.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\vbc.exe
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\vbc.exe.config
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\vbc.rsp
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\VBCSCompiler.exe
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Antlr3.Runtime.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\EntityFramework.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\EntityFramework.SqlServer.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Newtonsoft.Json.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Owin.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Helpers.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Mvc.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Optimization.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Razor.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.Razor.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\WebGrease.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Helpers.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Mvc.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Optimization.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.Razor.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\System.Web.WebPages.Razor.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Newtonsoft.Json.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Antlr3.Runtime.pdb
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\EntityFramework.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\EntityFramework.SqlServer.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.csproj.AssemblyReference.cache
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.Migrations.InitialCreate.resources
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.csproj.GenerateResource.cache
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.csproj.CoreCompileInputs.cache
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.csproj.CopyComplete
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.dll
+C:\Users\Silinda\Desktop\Holberton\holbertonschool-low_level_programming\TemplateDriven\obj\Debug\TemplateDriven.pdb

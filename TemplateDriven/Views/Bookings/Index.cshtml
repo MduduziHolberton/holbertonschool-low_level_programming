@@ -1,0 +1,81 @@
+﻿@model IEnumerable<TemplateDriven.Models.Booking>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Car.Brand_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location.Location_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rental_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Return_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total_Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Booking_Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Registration_Number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location_Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Car.Brand_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location.Location_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rental_Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Return_Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Total_Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Booking_Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Registration_Number)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location_Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Booking_Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Booking_Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Booking_Id })
+        </td>
+    </tr>
+}
+
+</table>
