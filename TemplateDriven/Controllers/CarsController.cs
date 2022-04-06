@@ -39,7 +39,7 @@ namespace TemplateDriven.Controllers
         // GET: Cars/Create
         public ActionResult Create()
         {
-            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Total_Cars");
+            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Location_Name");
             return View();
         }
 
@@ -50,14 +50,19 @@ namespace TemplateDriven.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Car_Id,Brand_Name,Available,Description,Regi_Number,Color,Transitions,Price,Capacity,ModelYear,Location_Id,CarTypes")] Car car)
         {
+            //get location based on selected 
+            Location location = db.Locations.Find(car.Location_Id);
+
             if (ModelState.IsValid)
             {
+                //increment total cars after adding new car
+                location.Total_Cars++;
                 db.Cars.Add(car);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Total_Cars", car.Location_Id);
+            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Location_Name", car.Location_Id);
             return View(car);
         }
 
@@ -73,7 +78,7 @@ namespace TemplateDriven.Controllers
             {
                 return HttpNotFound();
             }
-            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Total_Cars", car.Location_Id);
+            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Location_Name", car.Location_Id);
             return View(car);
         }
 
@@ -90,13 +95,14 @@ namespace TemplateDriven.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Total_Cars", car.Location_Id);
+            ViewBag.Location_Id = new SelectList(db.Locations, "Location_Id", "Location_Name", car.Location_Id);
             return View(car);
         }
 
         // GET: Cars/Delete/5
         public ActionResult Delete(int? id)
         {
+
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
@@ -115,7 +121,21 @@ namespace TemplateDriven.Controllers
         public ActionResult DeleteConfirmed(int id)
         {
             Car car = db.Cars.Find(id);
-            db.Cars.Remove(car);
+
+            //get location based on selected 
+            Location location = db.Locations.Find(car.Location_Id);
+            //decrement  number of cars in the when deleting a car
+            //confirm if the total is greater than zero
+            if (location.Total_Cars > 0)
+            {
+                location.Total_Cars--;
+            }
+            //should not proceed if total cars is zero
+            else if (location.Total_Cars <= 0)
+            {
+                ModelState.AddModelError("", "Cannot delete");
+            }
+            db.Cars.Remove(car); 
             db.SaveChanges();
             return RedirectToAction("Index");
         }

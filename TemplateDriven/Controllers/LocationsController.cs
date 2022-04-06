@@ -46,13 +46,14 @@ namespace TemplateDriven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Location_Id,Location_Name,Total_Cars")] Location location)
+        public ActionResult Create([Bind(Include = "Location_Id,Location_Name,Total_Cars,Total_Cars_Available")] Location location)
         {
             if (ModelState.IsValid)
             {
+                //makes sure that one 1 location name is added
                 if (db.Locations.Any(n => n.Location_Name == location.Location_Name))
                 {
-
+                    ModelState.AddModelError("", "Location is Already Added.");
                 }
                 else
                 {
@@ -86,7 +87,7 @@ namespace TemplateDriven.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Location_Id,Location_Name,Total_Cars")] Location location)
+        public ActionResult Edit([Bind(Include = "Location_Id,Location_Name,Total_Cars,Total_Cars_Available")] Location location)
         {
             if (ModelState.IsValid)
             {

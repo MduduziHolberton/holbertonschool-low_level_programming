@@ -4,6 +4,21 @@
     ViewBag.Title = "Create";
 }
 
+@*Links for adding calender*@
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+@section scripts
+{
+    <script src="~/Scripts/jquery-ui-1.13.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".datepicker").datepicker({
+                dateFormat: "yy",
+                changemonth: true,
+                changeyear: true
+            });
+        });
+    </script>
+}
 <h2>Create</h2>
 
 @using (Html.BeginForm()) 
@@ -22,15 +37,6 @@
             </div>
         </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.Available, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                <div class="checkbox">
-                    @Html.EditorFor(model => model.Available)
-                    @Html.ValidationMessageFor(model => model.Available, "", new { @class = "text-danger" })
-                </div>
-            </div>
-        </div>
 
         <div class="form-group">
             @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -83,7 +89,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.ModelYear, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.ModelYear, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.ModelYear, new { htmlAttributes = new { @class = "form-control datepicker" } })
                 @Html.ValidationMessageFor(model => model.ModelYear, "", new { @class = "text-danger" })
             </div>
         </div>

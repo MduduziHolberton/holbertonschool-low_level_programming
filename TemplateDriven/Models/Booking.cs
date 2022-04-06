@@ -12,6 +12,9 @@ namespace TemplateDriven.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Booking_Id { get; set; }
+        public int BookingCode { get; set; }
+
+        public Customer Customer  { get; set; }
         public DateTime Rental_Date { get; set; }
         public DateTime Return_Date { get; set; }
         public int Total_Price { get; set; }
@@ -25,7 +28,7 @@ namespace TemplateDriven.Models
         public string Brand_Name { get; set; }
 
         //PROPERTIES FOR PICKUP LOCATION
-        public int Location_Id { get; set; }
+        public int? Location_Id { get; set; }
         public virtual Location Location { get; set; }
 
         public string Location_Name { get; set; }

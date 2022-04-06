@@ -51,11 +51,24 @@ namespace TemplateDriven.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Booking_Id,Rental_Date,Return_Date,Total_Price,Booking_Status,Car_Id,Registration_Number,Brand_Name,Location_Id,Location_Name")] Booking booking)
         {
+            //get location selected for bookings
+            Location location = db.Locations.Find(booking.Location_Id);
+
             if (ModelState.IsValid)
             {
-                db.Bookings.Add(booking);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                //CHECK TOTAL CARS AVAILABLE BEFORE MAKING A BOOKING
+                if (location.Total_Cars_Available > 0)
+                {
+                    //DECREASE NUMBER OF CARS AFTER A BOOKING IS MADE
+                    location.Total_Cars_Available--;
+                    db.Bookings.Add(booking);
+                    db.SaveChanges();
+                    return RedirectToAction("Index");
+                }
+                else if(location.Total_Cars <=0)
+                {
+                    ModelState.AddModelError("", "No Cars Avalailable at this location in this moment ");
+                }
             }
 
             ViewBag.Car_Id = new SelectList(db.Cars, "Car_Id", "Brand_Name", booking.Car_Id);
@@ -118,7 +131,14 @@ namespace TemplateDriven.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
+
             Booking booking = db.Bookings.Find(id);
+
+
+            //get the location selected by the user when making a booking
+            Location location = db.Locations.Find(booking.Location_Id);
+
+            location.Total_Cars++;
             db.Bookings.Remove(booking);
             db.SaveChanges();
             return RedirectToAction("Index");

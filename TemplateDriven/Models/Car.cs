@@ -61,21 +61,15 @@ namespace TemplateDriven.Models
         ApplicationDbContext db = new ApplicationDbContext();
         //Get Location Name
 
-        //public string LocationName()
-        //{
-        //    var LName = (from LN in db.Locations
-        //                 where LN.Location_Id == Location_Id
-        //                 select LN.Location_Name).SingleOrDefault();
-            
-        //    return LName;
-        //}
-        public int TotalCars()
+        public string LocationName()
         {
-            var Ltotal = (from LT in db.Locations
-                         where LT.Location_Id == Location_Id
-                         select LT.Total_Cars).SingleOrDefault();
-          return  Ltotal;
-        } 
+            var LName = (from LN in db.Locations
+                         where LN.Location_Id == Location_Id
+                         select LN.Location_Name).SingleOrDefault();
+
+            return LName;
+        }
+       
 
     }
 }
